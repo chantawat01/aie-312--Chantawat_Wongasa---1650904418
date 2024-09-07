@@ -1,1 +1,3 @@
-# aie-312--Chantawat_Wongasa---1650904418
+#Name : Chantawat Wongasa
+Student ID : 1650904418
+E-mail : chantawat.wong@bumail.net
